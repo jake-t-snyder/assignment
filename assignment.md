@@ -87,7 +87,7 @@ a central theme in my Ph.D. research. Additionally, MBIO640 teaches
 necessary skills that will apply to my future project, such as
 collecting field data to parameterize models and analyze in R.
 
-### What do you want to learn about the most in this course:
+### What do I want to learn about the most in this course:
 
 I want to learn about 3D modeling the most, specifically laser scanning
 and 3D printing. I am also excited for the “Functions” module, which
