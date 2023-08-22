@@ -93,7 +93,7 @@ I want to learn about 3D modeling the most, specifically laser scanning
 and 3D printing. I am also excited for the “Functions” module, which
 seems to bridge geometry and allometry with ecosystem functions.
 
-### Your R experience:
+### My R experience:
 
 Beginner-intermediate. I have had two modeling-heavy internships: one
 primarily in R, and one in MatLab.
