@@ -78,7 +78,7 @@ Dr. Lisa McManus’ Marine Ecological Theory Lab
 ### Project focus:
 
 Modeling the effect of sedimentation on herbivorous fish behavior and
-feeding and its implications in coral-algal phase shifts.
+feeding and their implications in coral-algal phase shifts.
 
 ### Why I chose this course:
 
